@@ -1,0 +1,91 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: end;
+    width: 120px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255, 0.79);
+}
+
+.textH3{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px 0px 0px;
+}
+
+.textH5{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px 20px 0px;
+}
+
+
+
+.icon{
+    margin: 0px 0px 30px 0px;
+    font-size: xx-large;
+    color: black;
+}
+
+/* --------------- CarWidget2 ---------------------- */
+
+
+.widgetSecondCard{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: end;
+    width: 120px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255, 0.79);
+}
+
+.widgetSecondTextH3{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px 0px 0px;
+}
+
+.widgetSecondTextH5{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px 20px 0px;
+}
+
+
+
+.widgetSecondIcon{
+    margin: 0px 0px 30px 0px;
+    font-size: xx-large;
+    color: black;
+}
+
+/* --------------- CarWidget3 ---------------------- */
+
+.widgetThirdCard{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: end;
+    width: 120px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255, 0.79);
+}
+
+.widgetThirdTextH3{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px 0px 0px;
+}
+
+.widgetThirdTextH5{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px 20px 0px;
+}
+
+
+
+.widgetThirdIcon{
+    margin: 0px 0px 30px 0px;
+    font-size: xx-large;
+    color: black;
+}
